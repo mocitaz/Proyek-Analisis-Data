@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load data
-data = pd.read_csv("main_data.csv")
+data = pd.read_csv("submission/dashboard/main_data.csv")
 
 # Judul
 st.title("Dashboard Penyewaan Sepeda")
